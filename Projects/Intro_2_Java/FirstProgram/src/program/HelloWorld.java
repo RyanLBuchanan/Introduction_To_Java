@@ -54,5 +54,6 @@ public class HelloWorld {
 		System.out.println(intArray1[2]);
 		System.out.print("...with a length of: ");
 		System.out.println(intArray1.length);
+		System.out.println();
 	}
 }
