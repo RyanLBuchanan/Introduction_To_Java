@@ -15,8 +15,7 @@ public class IfStatements {
 		
 		String pigs = "Flying";
 		
-		if (trek == "Strange New Worlds" && pigs == "Are not flying")
-		{
+		if (trek == "Strange New Worlds" && pigs == "Are not flying") {
 			System.out.println("Long live Pike!!!");
 		} 
 		else if (trek == "Strange New Worlds") {
