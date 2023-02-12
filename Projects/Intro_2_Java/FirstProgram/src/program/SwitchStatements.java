@@ -2,7 +2,7 @@ package program;
 
 public class SwitchStatements {
 	public static void main(String[] args) {
-		int value = 3;
+		int value = 1;
 		
 		switch(value) {
 		case 1:
@@ -13,6 +13,9 @@ public class SwitchStatements {
 			break;
 		case 3:
 			System.out.println("Case 3");
+			break;
+		case 69:
+			System.out.println("Case of bananas");
 			break;
 		default: 
 			System.out.println("Default case");
