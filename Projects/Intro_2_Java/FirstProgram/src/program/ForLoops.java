@@ -28,10 +28,19 @@ public class ForLoops {
 //			};
 //		}
 		
-		int[] array = {1, 2, 3, 4, 8, 11, 22, 45, 66};
+//		int[] array = {1, 2, 3, 4, 8, 11, 22, 45, 66};
+//		
+//		for (int i = 0; i < array.length; i++) {
+//			System.out.println(array[i]);
+//		}
 		
-		for (int i = 0; i < array.length; i++) {
-			System.out.println(array[i]);
+		
+		int i = 0; 
+		while (i != 4) {
+			switch(i) {
+			case 0:
+				System.out.println(0);
+			}
 		}
 	}
 }
