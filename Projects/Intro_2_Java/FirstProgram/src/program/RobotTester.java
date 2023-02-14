@@ -6,7 +6,7 @@ public class RobotTester {
 		
 		Robot robot = new Robot();
 		
-		robot.setMaxSpeed(10);
+//		robot.setMaxSpeed(10);
 		
 		robot.travel();
 	}

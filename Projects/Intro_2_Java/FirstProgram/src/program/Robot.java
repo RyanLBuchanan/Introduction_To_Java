@@ -4,6 +4,10 @@ public class Robot {
 
 	private int maxSpeed;
 	
+	public Robot() {
+		this.maxSpeed = 1;
+	}
+	
 	public int getMaxSpeed() {
 		return maxSpeed;
 	}
