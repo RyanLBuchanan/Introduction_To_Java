@@ -12,7 +12,7 @@ public class Byte {
 //	public int myArray[] = new int[3];
 	
 
-	public []int myArray = new int[3];
+//	public []int myArray = new int[3];
 	
 //	public int[] myArray = {1, 2, 3};
 	
